@@ -6,19 +6,18 @@
 ![github_gif](https://user-images.githubusercontent.com/97456744/172036146-50bda393-d54b-4067-9fa4-1fb70fbea364.gif)
 ![](https://Tharunk07.com/ghpvc/?username=Tharunk07&color=green)
 
-<p align="left"> <a href="https://twitter.com/heart_trickler" target="blank"><img src="https://img.shields.io/twitter/follow/heart_trickler?logo=twitter&style=for-the-badge" alt="heart_trickler" /></a> </p>
+<p align="left"> <a target="blank"><img src="https://img.shields.io/twitter/follow/heart_trickler?logo=twitter&style=for-the-badge"  /></a> </p>
 
 - 🔭 I’m currently studying in **KPR Institute of Engineering and Technology**
 
-- 🌱 I’m currently learning **Deep learning and Machine learning**
+- 🌱 I’m currently learning **Java and Python**
 
-- 👨‍💻 All of my projects are available at [https://tharunk07.github.io/tharunportfolio/](https://tharunk07.github.io/tharunportfolio/)
 
-- 💬 Ask me about **Machine learning**
+- 💬 Ask me about **Software Development**
 
-- 📫 How to reach me **tharunkkumarasamy@gmail.com**
+- 📫 How to reach me **rishonaarulraj@gmail.com**
 
-- ⚡ Passion **ML Developer**
+- ⚡ Passion **Software Developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
