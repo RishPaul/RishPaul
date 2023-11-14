@@ -4,7 +4,6 @@
 <h3 align="center">A passionate software developer from India</h3>
 
 ![github_gif](https://user-images.githubusercontent.com/97456744/172036146-50bda393-d54b-4067-9fa4-1fb70fbea364.gif)
-![](https://Tharunk07.com/ghpvc/?username=Tharunk07&color=green)
 
 <p align="left"> <a target="blank"><img src="https://img.shields.io/twitter/follow/heart_trickler?logo=twitter&style=for-the-badge"  /></a> </p>
 
